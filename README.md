@@ -9,7 +9,7 @@ java -jar PathSumTwoWays.jar
 
 ## Why I Chose This Problem
 
-This was another problem Adobe recommended. Path Sum Two Ways seemed like a classic algorithm problem from back in my Computer Science classes. I'd also seen similar problems on interview prep books and websites before so it seemed like a good contrast to the previous Poker Hands problem.
+This was the 2nd problem recommended. Path Sum Two Ways seemed like a classic algorithm problem from back in my Computer Science classes. I'd also seen similar problems on interview prep books and websites before so it seemed like a good contrast to the previous Poker Hands problem.
 
 ## Process
 
